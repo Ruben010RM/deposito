@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'23'
+-sourcepath
+'C:/Users/ruben/Downloads/deposito/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ruben/Downloads/deposito/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'deposito 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'deposito 1.0-SNAPSHOT API'
+cuenta
+'C:/Users/ruben/Downloads/deposito/src/main/java/Main.java'
+C:\Users\ruben\Downloads\deposito\src\main\java\Main.java = 1741037968889
+C:\Users\ruben\Downloads\deposito\src\main\java = 1741034694368
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\allclasses-index.html = 1741038413630
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\allpackages-index.html = 1741038413632
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\element-list = 1741038413581
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\help-doc.html = 1741038413654
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\index-all.html = 1741038413648
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\index.html = 1741038413621
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\Main.html = 1741038413579
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\member-search-index.js = 1741038413636
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\module-search-index.js = 1741038413633
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\overview-summary.html = 1741038413651
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\overview-tree.html = 1741038413618
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\package-search-index.js = 1741038413634
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\package-summary.html = 1741038413586
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\package-tree.html = 1741038413592
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\package-use.html = 1741038413613
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\search.html = 1741038413650
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\tag-search-index.js = 1741038413637
+C:\Users\ruben\Downloads\deposito\target\reports\apidocs\type-search-index.js = 1741038413635
